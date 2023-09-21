@@ -1,3 +1,19 @@
+## About 7ofra
+
+### Introduction
+
+Road problems are becoming very common nowadays and governments cannot keep track of all the possible problems occurring in the country. To help resolve such problems we are developing a web app that helps people on the road which allows users to warn about possible road problems such as road potholes; moderators can place roadblocks and warn about possible road maintenance. Users can also request help from others through the app.
+
+### Discussion
+
+Our website will allow visitors to register. There will be accounts for regular users as well as moderators. Unregistered guests may still use the website to view the map and the information tabs.
+
+Users are allowed to report potholes they find on roads that may cause damage to the vehicles so that other users will take precautions. There will be moderators from the government who can report roadblocks and can repair the potholes reported and remove them from the web app.
+
+The help tab will contain links to articles for frequent/common issues with instructions on how to deal with them. Once help is requested a help request pin at the requestor's location will be shown on the map for all users. The request will remain until the user removes the request.
+
+A news tab will be shown that can be edited only by moderators that will contain data about road issues or closed roads with an estimated time of its blockage to prevent traffic on this road and will be constantly updated by the moderators.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
